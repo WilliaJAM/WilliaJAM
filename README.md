@@ -22,7 +22,7 @@ tecnologia. He pasado por mucho pero le agradezco
 a Dios por esta oportunidad.
 
 Como mencione actualmente estoy tomando cursos para especializarme en backend
-ya que no soy muy bueno con el diseño (Risas o emoji de risa). Mi objetivo es
+ya que no soy muy bueno con el diseño 😄. Mi objetivo es
 terminar el año con un proyecto y ser lo suficientemente bueno para desarrollar bases
 de datos. El otro año buscar trabajo como Dev o algo relacionado con la tecnología,
 como mencione quiero ser un gran Dev y lo daré todo para lograrlo.
