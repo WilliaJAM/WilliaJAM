@@ -8,29 +8,22 @@ me propongo a especializarme mas **backend**.
 
 ## Conocimientos
 
-<img style="border-radius: 2px;" src="https://img.shields.io/badge/Javascript-Medio-green?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black
-" alt="Javascript">
+![Javascript](https://img.shields.io/badge/Javascript-Medio-green?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black)
 <br>
-<img style="border-radius: 2px;" src="https://img.shields.io/badge/HTML-B%C3%A1sico-yellow?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black
-" alt="HTML">
+![HTML](https://img.shields.io/badge/HTML-B%C3%A1sico-yellow?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black)
 <br>
-<img style="border-radius: 2px;" src="https://img.shields.io/badge/css-B%C3%A1sico-yellow?style=for-the-badge&logo=css&logoColor=%23016CBA&labelColor=black
-" alt="CSS">
+![CSS](https://img.shields.io/badge/css-B%C3%A1sico-yellow?style=for-the-badge&logo=css&logoColor=%23016CBA&labelColor=black)
 <br>
-<img style="border-radius: 2px;" src="https://img.shields.io/badge/Python-Aprendiendo-gray?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black
-" alt="Python">
+![Python](https://img.shields.io/badge/Python-Aprendiendo-gray?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black)
 <br>
-<img style="border-radius: 2px;" src="https://img.shields.io/badge/Git-B%C3%A1sico-yellow?style=for-the-badge&logo=git&logoColor=%23F03C2E&labelColor=black
-" alt="Git">
+![Git](https://img.shields.io/badge/Git-B%C3%A1sico-yellow?style=for-the-badge&logo=git&logoColor=%23F03C2E&labelColor=black)
 <br>
-<img style="border-radius: 2px;" src="https://img.shields.io/badge/POO-B%C3%A1sico-yellow?style=for-the-badge&logo=anycubic&logoColor=%235FA04E&labelColor=black
-" alt="POO">
+![POO](https://img.shields.io/badge/POO-B%C3%A1sico-yellow?style=for-the-badge&logo=anycubic&logoColor=%235FA04E&labelColor=black)
 <br>
-<img style="border-radius: 2px;" src="https://img.shields.io/badge/SQL-B%C3%A1sico-yellow?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=black
-" alt="SQL">
+![SQL](https://img.shields.io/badge/SQL-B%C3%A1sico-yellow?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=black)
 <br>
-<img style="border-radius: 2px;" src="https://img.shields.io/badge/Node.js-Aprendiendo-gray?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=black
-" alt="Node.js">
+![Node.js](https://img.shields.io/badge/Node.js-Aprendiendo-gray?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=black)
+
 
 No es un gran perfil pero vamos en el proceso ↗️, **no me rendiré**. Se que esta
 carrera es muy competitiva, es mi objetivo ser un gran Dev, trabajar en un equipo
