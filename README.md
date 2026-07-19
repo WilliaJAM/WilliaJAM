@@ -24,7 +24,6 @@ me propongo a especializarme mas **backend**.
 <br>
 ![Node.js](https://img.shields.io/badge/Node.js-Aprendiendo-gray?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=black)
 
-
 No es un gran perfil pero vamos en el proceso ↗️, **no me rendiré**. Se que esta
 carrera es muy competitiva, es mi objetivo ser un gran Dev, trabajar en un equipo
 y ayudar a las personas (Mis familiares), además de en un futuro montar un negocio de
@@ -36,3 +35,34 @@ ya que no soy muy bueno con el diseño 😄. Mi objetivo es
 terminar el año con un proyecto y ser lo suficientemente bueno para desarrollar bases
 de datos. El otro año buscar trabajo como Dev o algo relacionado con la tecnología,
 como mencione quiero ser un gran Dev y lo daré todo para lograrlo.
+
+## Mi Roadmap este semestre
+
+| Tema                          | Estado                                                                       |
+| ----------------------------- | ---------------------------------------------------------------------------- |
+| Fase 1                        |
+| Git                           | ![Terminado](https://img.shields.io/badge/Terminado-Green?style=flat-square) |
+| GitHub                        | ![Terminado](https://img.shields.io/badge/Terminado-Green?style=flat-square) |
+| Javascript Basico             | ![Cursando](https://img.shields.io/badge/Cursando-yellow?style=flat-square)  |
+| FUndamentos de la Web         | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+| APIs REST                     | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+| Fase 2                        |
+| Fundamentos de bases de datos | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+| SQL Nivel Mid                 | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+| PostgreSQL                    | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+| Fase 3                        |
+| Node.js                       | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+| Express.js                    | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+| Postman                       | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+| Prisma ORM                    | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+| Fase 4                        |
+| Autenticación con JWT         | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+| Variables de entorno (.env)   | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+| PostgreSQL                    | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+| Fase 5                        |
+| Desarrollo de Proyecto        | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+| Fase 6                        |
+| TypeScript básico             | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+| Testing Basico con Jest       | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+
+Si tiene alguna sugerencia, para mejorar o cambiar estare pendiente.
