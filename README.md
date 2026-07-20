@@ -40,28 +40,28 @@ como mencione quiero ser un gran Dev y lo daré todo para lograrlo.
 
 | Tema                          | Estado                                                                       |
 | ----------------------------- | ---------------------------------------------------------------------------- |
-| Fase 1                        |
+|  **Fase 1**                      |
 | Git                           | ![Terminado](https://img.shields.io/badge/Terminado-Green?style=flat-square) |
 | GitHub                        | ![Terminado](https://img.shields.io/badge/Terminado-Green?style=flat-square) |
 | Javascript Basico             | ![Cursando](https://img.shields.io/badge/Cursando-yellow?style=flat-square)  |
 | FUndamentos de la Web         | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
 | APIs REST                     | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
-| Fase 2                        |
+| **Fase 2 **                       |
 | Fundamentos de bases de datos | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
 | SQL Nivel Mid                 | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
 | PostgreSQL                    | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
-| Fase 3                        |
+| **Fase 3**                        |
 | Node.js                       | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
 | Express.js                    | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
 | Postman                       | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
 | Prisma ORM                    | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
-| Fase 4                        |
+| **Fase 4**                        |
 | Autenticación con JWT         | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
 | Variables de entorno (.env)   | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
 | PostgreSQL                    | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
-| Fase 5                        |
+| **Fase 5**                        |
 | Desarrollo de Proyecto        | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
-| Fase 6                        |
+| **Fase 6**                        |
 | TypeScript básico             | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
 | Testing Basico con Jest       | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
 
