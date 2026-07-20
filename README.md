@@ -46,7 +46,7 @@ como mencione quiero ser un gran Dev y lo daré todo para lograrlo.
 | Javascript Basico             | ![Cursando](https://img.shields.io/badge/Cursando-yellow?style=flat-square)  |
 | FUndamentos de la Web         | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
 | APIs REST                     | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
-| **Fase 2 **                       |
+| **Fase 2**                       |
 | Fundamentos de bases de datos | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
 | SQL Nivel Mid                 | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
 | PostgreSQL                    | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
