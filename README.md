@@ -44,7 +44,7 @@ como mencione quiero ser un gran Dev y lo daré todo para lograrlo.
 | Git                           | ![Terminado](https://img.shields.io/badge/Terminado-Green?style=flat-square) |
 | GitHub                        | ![Terminado](https://img.shields.io/badge/Terminado-Green?style=flat-square) |
 | Javascript Basico             | ![Cursando](https://img.shields.io/badge/Cursando-yellow?style=flat-square)  |
-| FUndamentos de la Web         | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
+| Fundamentos de la Web         | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
 | APIs REST                     | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
 | **Fase 2**                       |
 | Fundamentos de bases de datos | ![Pendiente](https://img.shields.io/badge/Pendiente-gray?style=flat-square)  |
